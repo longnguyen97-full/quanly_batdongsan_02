@@ -1,0 +1,28 @@
+/*TRANGCHU*/
+.dv-bg {
+	background-color: #51646B;
+	padding: 0px, 0px, 0px, 0px;
+}
+
+.dv-bg i {
+	margin-left: 20px;
+}	
+
+.dv-bg h2 {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-align: center;
+}
+.dv-bg h3 {
+	margin-left: 42px;
+	filter: brightness(85%)
+}
+.dv-bg p {
+	margin-left: 42px;
+	color: white;
+	line-height: 25px;
+}
+
+.thanhtuu {
+	margin-left: 42px;
+}

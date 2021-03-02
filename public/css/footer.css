@@ -1,0 +1,36 @@
+/*FOOTER*/
+.dangky {
+	background-color: #3E525B;
+	padding: 2px;
+}
+.dangky p {
+	line-height: 0px;
+	color: white;
+	padding-top: 15px;
+}
+.dangky input {
+	border-radius: 3px;
+	margin: 0px 5px 0px 5px;
+	border: none;
+}
+.dangky input[type="text"] {
+	padding: 10px;
+}
+.dangky input[type="button"] {
+	padding: 10px 25px 10px 25px;
+	background-color: #DD940B;
+}
+
+.noidung td {
+	padding: 1% 6% 1% 4%;
+	line-height: 25px;
+	background-color: #1B1B25;
+	color: darkgray;
+}
+
+.copyright {
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-image: radial-gradient(#DDDDDB, #DDDDDD, #D9DFDD);
+}
